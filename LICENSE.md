@@ -10,7 +10,7 @@ You may distribute a recording of Original Composition as a cover or as remix of
 
 No additional license is required to distribute a recording of Original Composition for non-commercial purposes.
 
-To distribute a recording of the Original Composition for commercial purposes, you must obtain an additional license for such distribution or distribute a recording through a service that will take care of obtaining such a license or distribute a recording with the consent of the author by identification of Original Composition via service like YouTube Content ID. Services that allow legal distribution of covers or remixes may obtain such licenses, but you must provide the correct metadata for obtaining such license.
+To distribute a recording of the Original Composition for commercial purposes, you must obtain an additional license for such distribution or distribute a recording through a service that will take care of obtaining such license or distribute a recording with the consent of the author by identification of Original Composition via service like YouTube Content ID. Services that allow legal distribution of covers or remixes may obtain such licenses, but you must provide the correct metadata for obtaining such license.
 
 If you are using samples or synth presets of Original Composition published anywhere by the author of Original Composition, then you must distribute your derivative work as a remix of Original Composition, otherwise as a cover of Original Composition. If you are distributing your recording as a remix, it must be substantially different from the recordings published by the author of Original Composition and should be easily identifiable by ear as another derivative work.
 
